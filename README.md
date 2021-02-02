@@ -7,9 +7,11 @@
 ### What This Project Features:
 - Responsive UI
 - Custom Cursor
-- 
+- Stats Board
+- Game List
+- Profile Info and Bio
 
 ### Future Additions:
 - Store Page
 - Friends Page
-- 
+- Power On, Logo Animation with CSS
